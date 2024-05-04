@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yussif_yahuza12" target="blank"><img src="https://img.shields.io/twitter/follow/yussif_yahuza12?logo=twitter&style=for-the-badge" alt="yussif_yahuza12" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant POS System**
+- 🔭 I’m currently working on **Manhyia North Live & Madrasa API**
 
 - 🌱 I’m currently learning **JavaScript & TypeScript**
 
