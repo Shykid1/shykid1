@@ -6,11 +6,31 @@
 
 <p align="left"> <a href="https://twitter.com/yussif_yahuza12" target="blank"><img src="https://img.shields.io/twitter/follow/yussif_yahuza12?logo=twitter&style=for-the-badge" alt="yussif_yahuza12" /></a> </p>
 
-- 🔭 I’m currently working on **Manhyia North Live & Madrasa API**
+👋 Hi there! I’m Yussif Yahuza.
 
-- 🌱 I’m currently learning **JavaScript & TypeScript**
+💻 I’m a second-year undergraduate student pursuing a Bachelor of Science in Software Engineering at C.K. Tedam University of Technology and Applied Sciences.
 
-- 👯 I’m looking to collaborate on **Any Project**
+🌍 I hail from Tamale, Northern Ghana, and proudly belong to the Dagomba tribe.
+
+🧑‍💻 Currently, I'm a Freelance Web Developer at Synthotech Solutions and previously interned as a Full Stack Developer at Turbines Limited.
+
+**- 🔧 My skill set includes:**
+
+      Front-end: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, React Native, Tailwind CSS, Bootstrap, Material UI, Redux
+      Back-end: Node.js, Express.js
+      Databases: MongoDB, PostgreSQL, SQL.
+
+**- 📚 I’m passionate about:**
+
+      Web Development
+      Cloud Computing
+      Data Storage Technologies
+      Mobile App Development
+      Backend Development
+
+**✨ Fun Fact:** ***I love exploring new technologies and building innovative solutions to real-world problems.***
+
+***Feel free to check out my projects and collaborations. I’m always open to connecting and exploring new opportunities! 🚀***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
