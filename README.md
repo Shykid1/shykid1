@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shykid1&label=Profile%20views&color=0e75b6&style=flat" alt="shykid1" /> </p>
 
 <div align="center">
-  <h1>D A Y N L I G H T</h1>
+  <h1>Y U S S I F - Y A H U Z A</h1>
 </div>
 
 <div align="center">
-  <img height=200px src="https://avatars.githubusercontent.com/u/62157770?v=4"></br>
-  I ❤ C Langs. And my cute gf</br>
+  <img height=200px src="https://avatars.githubusercontent.com/u/62157771?v=4"></br>
+  I ❤ Software Engineering</br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
