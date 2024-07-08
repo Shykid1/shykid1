@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height=200px src="https://avatars.githubusercontent.com/u/62157771?v=4"></br>
+  <img height=200px src="https://avatars.githubusercontent.com/u/62157769?v=4"></br>
   I ❤ Software Engineering</br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -18,17 +18,17 @@
 
 <div align=center> 
   <h2>💖Stats💖</h2>
-  <img height=150px src="https://streak-stats.demolab.com?user=daynlight&theme=algolia"></br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daynlight&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daynlight&theme=algolia">
+  <img height=150px src="https://streak-stats.demolab.com?user=shykid1&theme=algolia"></br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shykid1&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shykid1&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shykid1&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shykid1&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shykid1&theme=algolia">
 </div>
 
 <div align=center>
   <h2>👑Trophy👑</h2>
-  <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=daynlight&theme=algolia&column=-1&rank=-?"></a>
+  <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=shykid1&theme=algolia&column=-1&rank=-?"></a>
 </div>
 
 <div align=center>
