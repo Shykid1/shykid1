@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height=200px src="https://avatars.githubusercontent.com/u/1319992511?v=4"></br>
+  <img height=200px src="https://avatars.githubusercontent.com/u/88870270?s=400&u=320459297303b26a9d8b34a0770cb32579d24644&v=4"></br>
   I ❤ Software Engineering</br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
