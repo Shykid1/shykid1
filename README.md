@@ -48,11 +48,11 @@
 
 👋 Hi there! I’m Yussif Yahuza.
 
-💻 I’m a second-year undergraduate student pursuing a Bachelor of Science in Software Engineering at C.K. Tedam University of Technology and Applied Sciences.
+💻 I’m a third-year undergraduate student pursuing a Bachelor of Science in Software Engineering at C.K. Tedam University of Technology and Applied Sciences.
 
 🌍 I hail from Tamale, Northern Ghana, and proudly belong to the Dagomba tribe.
 
-🧑‍💻 Currently, I'm a Freelance Web Developer at Synthotech Solutions and previously interned as a Full Stack Developer at Turbines Limited.
+🧑‍💻 Currently, I'm a Software Engineer and a Project Manager at Vizyon Media Inc 
 
 **- 🔧 My skill set includes:**
 
